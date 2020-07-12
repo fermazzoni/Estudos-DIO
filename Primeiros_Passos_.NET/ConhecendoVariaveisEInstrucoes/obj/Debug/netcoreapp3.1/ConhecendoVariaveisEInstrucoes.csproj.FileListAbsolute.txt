@@ -1,0 +1,13 @@
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\obj\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.csprojAssemblyReference.cache
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\obj\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.AssemblyInfoInputs.cache
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\obj\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.AssemblyInfo.cs
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\obj\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\bin\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.exe
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\bin\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.deps.json
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\bin\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.runtimeconfig.json
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\bin\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.runtimeconfig.dev.json
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\bin\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.dll
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\bin\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.pdb
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\obj\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.dll
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\obj\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.pdb
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\ConhecendoVariaveisEInstrucoes\obj\Debug\netcoreapp3.1\ConhecendoVariaveisEInstrucoes.genruntimeconfig.cache
