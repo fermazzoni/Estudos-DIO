@@ -1,0 +1,13 @@
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.csprojAssemblyReference.cache
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfoInputs.cache
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.AssemblyInfo.cs
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.csproj.CoreCompileInputs.cache
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.exe
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.deps.json
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.json
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.runtimeconfig.dev.json
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.dll
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\bin\Debug\netcoreapp3.1\Revisao.pdb
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.dll
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.pdb
+D:\Documentos\Estudo\GIT\Estudos-DIO\Primeiros_Passos_.NET\Revisao\obj\Debug\netcoreapp3.1\Revisao.genruntimeconfig.cache
