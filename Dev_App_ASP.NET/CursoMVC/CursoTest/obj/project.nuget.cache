@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yEbKN1DMzLNHjwqzamEjVwPOASCI+54fNt6yHy4xi55+pu4DP7tBIIcNmj2t12HeBXUA5UR9e34VsgaElwqwxA==",
+  "dgSpecHash": "btEr+yL0jJ56szEwxODzenvxiB9YWjb8vNwjP2imom4faKfBEpnUkWMLs21y13D1NRCiv4Vevy+o8l/4y4XK7g==",
   "success": true,
   "projectFilePath": "D:\\Documentos\\Estudo\\GIT\\Estudos-DIO\\Dev_App_ASP.NET\\CursoMVC\\CursoTest\\CursoTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fernando\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
-    "C:\\Users\\Fernando\\.nuget\\packages\\documentformat.openxml\\2.11.2\\documentformat.openxml.2.11.2.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
@@ -119,7 +118,6 @@
     "C:\\Users\\Fernando\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
-    "C:\\Users\\Fernando\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
     "C:\\Users\\Fernando\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
